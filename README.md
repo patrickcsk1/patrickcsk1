@@ -2,6 +2,7 @@
 
 <!--
 **patrickcsk1/patrickcsk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 # 💫 About Me:
 🔭 I’m currently working as a Software Engineer<br>
@@ -9,7 +10,6 @@
 🌱 I’m currently learning Flutter, React Native<br>
 💬 Don't hesitate to ask any questions. Feel free to reach out to me.<br>
 ⚡ Fun fact: I have a dog called Hoko which comes from a Japanese story
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/patrick.anderson01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pafigueroal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pafigueroal/) 
@@ -37,5 +37,3 @@
 [![](https://visitcount.itsvg.in/api?id=patrickcsk1&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
--->
