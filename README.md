@@ -1,5 +1,5 @@
 ### Hi there my name is Patrick Figueroa 👋
-# I'm a Senior Software Engineer from Lima, Peru
+I'm a Senior Software Engineer from Lima, Peru
 
 <!--
 **patrickcsk1/patrickcsk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
