@@ -10,8 +10,8 @@ I'm a Senior Software Engineer from Lima, Peru
 🤝 I’m looking for help to any challenging project<br>
 🌱 I’m currently learning Flutter, React Native<br>
 💬 Don't hesitate to ask any questions. Feel free to reach out to me.<br>
-⚡ Fun fact: I have a dog called Hoko which comes from a Japanese story
-Portfolio: https://portfolio-d8l76g5ag-patrickcsk1-projects.vercel.app/
+⚡ Fun fact: I have a dog called Hoko which comes from a Japanese story<br>
+👨🏻‍💻 Portfolio: https://portfolio-d8l76g5ag-patrickcsk1-projects.vercel.app/
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/patrick.anderson01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pafigueroal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pafigueroal/) 
